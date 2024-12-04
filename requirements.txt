@@ -1,0 +1,4 @@
+opencv-python==4.5.5.64
+numpy==1.23.5
+deskew==1.0.1
+pdf2image==1.16.3
